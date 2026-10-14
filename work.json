@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "kudos",
+    "brand": "Kudos",
+    "title": "Kudos now handles the rest",
+    "kind": "Spec concept",
+    "date": "2026-10-13",
+    "sector": "Consumer fintech",
+    "length": "21s",
+    "format": "9:16 with sound",
+    "summary": "A launch advert for Kudos 3.0, the app that negotiates bills, cancels forgotten subscriptions and switches on hidden card offers.",
+    "noticed": "Every Kudos reel opens on a specific dollar amount, but almost none of them show the product itself moving.",
+    "built": "An advert that opens the way their reels do, with four credits from their own posts, then shows the app doing the work and ends on their Your wins card. Every line and figure is theirs.",
+    "video": "media/kudos/video.mp4",
+    "poster": "media/kudos/poster.jpg"
+  },
+  {
+    "slug": "tixby",
+    "brand": "Tixby",
+    "title": "Discover. Book. Vote. Host.",
+    "kind": "Own product",
+    "date": "2026-10-14",
+    "sector": "Events and ticketing",
+    "length": "30s",
+    "format": "9:16 and 16:9 with sound",
+    "summary": "A 30-second advert for Tixby, the app for finding events, booking tickets, voting in competitions and hosting your own.",
+    "noticed": "",
+    "built": "Four beats, one for each thing the app does: find an event, book in seconds, vote without signing in, and sell tickets as a host. Each beat gets its own colour and its own piece of the interface, and the piece closes on the four-word line.",
+    "video": "media/tixby/video.mp4",
+    "poster": "media/tixby/poster.jpg",
+    "videoWide": "media/tixby/video-wide.mp4",
+    "posterWide": "media/tixby/poster-wide.jpg"
+  }
+]

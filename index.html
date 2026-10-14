@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wonda Motion — short motion adverts by Daniel Aduama</title>
+  <meta name="description" content="Wonda Motion makes 15 to 60 second motion adverts for apps and consumer brands, built from the brand's own words and ready for Reels, TikTok and paid social.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="nav">
+    <a class="brand" href="#top" aria-label="Wonda Motion home">
+      <span class="brand-dot" aria-hidden="true"></span>Wonda Motion
+    </a>
+    <nav aria-label="Main">
+      <a href="#work">Work</a>
+      <a href="#process">Process</a>
+      <a class="nav-cta" href="#contact">Start a project</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Motion design studio · Based in Ghana, working worldwide</p>
+        <h1 class="rise">
+          <span><i>Short motion</i></span>
+          <span><i>adverts, built</i></span>
+          <span><i>from <em>your own</em></i></span>
+          <span><i>words.</i></span>
+        </h1>
+        <p class="lede">I'm Daniel Aduama. I make 15 to 60 second animated adverts for apps and consumer brands, with sound, sized for Reels, TikTok and paid social.</p>
+        <div class="actions">
+          <a class="button primary" href="#work">See the work</a>
+          <a class="button" href="#contact">Start a project</a>
+        </div>
+      </div>
+      <div class="hero-reel" aria-hidden="true">
+        <div class="phone">
+          <video id="hero-video" muted loop playsinline preload="metadata"></video>
+        </div>
+        <span class="chip chip-a">9:16</span>
+        <span class="chip chip-b">Sound on</span>
+        <span class="chip chip-c">15 to 60 seconds</span>
+      </div>
+    </section>
+
+    <div class="marquee" aria-hidden="true">
+      <div class="marquee-track">
+        <span>Reels</span><span>TikTok</span><span>Stories</span><span>Paid social</span><span>App launches</span><span>Product explainers</span><span>Feature drops</span>
+        <span>Reels</span><span>TikTok</span><span>Stories</span><span>Paid social</span><span>App launches</span><span>Product explainers</span><span>Feature drops</span>
+      </div>
+    </div>
+
+    <section class="section" id="work">
+      <div class="section-head">
+        <h2>Work</h2>
+        <p>Pieces marked "Spec concept" are self-initiated. They were not commissioned by, and are not affiliated with, those brands.</p>
+      </div>
+      <div class="grid" id="work-grid"></div>
+    </section>
+
+    <section class="section" id="process">
+      <div class="section-head">
+        <h2>How a piece gets made</h2>
+      </div>
+      <ol class="steps">
+        <li>
+          <span class="step-num">01</span>
+          <h3>I read everything you've posted</h3>
+          <p>Your site, your feed, your launch notes. I look for the lines you already say well and the figures you already publish.</p>
+        </li>
+        <li>
+          <span class="step-num">02</span>
+          <h3>I build the advert around them</h3>
+          <p>Your logo, colours and typeface. A hook in the first two seconds, the product doing its job, and sound design on every move.</p>
+        </li>
+        <li>
+          <span class="step-num">03</span>
+          <h3>You get every size you need</h3>
+          <p>Vertical, square and widescreen cuts, with two rounds of revisions, usually inside a week.</p>
+        </li>
+      </ol>
+    </section>
+
+    <section class="section contact" id="contact">
+      <h2>Got a launch coming?</h2>
+      <p>Tell me what you're shipping and when. I'll reply with an idea for the first five seconds.</p>
+      <a class="button primary large" id="contact-email" href="mailto:dannywonda2@gmail.com?subject=Motion%20advert%20for%20our%20launch">dannywonda2@gmail.com</a>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>© 2026 Wonda Motion · Daniel Aduama</span>
+    <a href="#top">Back to top</a>
+  </footer>
+
+  <dialog class="viewer" id="viewer" aria-labelledby="viewer-title">
+    <button class="viewer-close" id="viewer-close" aria-label="Close">×</button>
+    <div class="viewer-body">
+      <div class="viewer-video"><video id="viewer-video" controls playsinline></video></div>
+      <div class="viewer-text">
+        <p class="tag" id="viewer-kind"></p>
+        <h3 id="viewer-title"></h3>
+        <p class="viewer-meta" id="viewer-meta"></p>
+        <div class="cuts" id="viewer-cuts" role="group" aria-label="Choose a cut" hidden></div>
+        <p id="viewer-summary"></p>
+        <h4>What I noticed</h4>
+        <p id="viewer-noticed"></p>
+        <h4>What I built</h4>
+        <p id="viewer-built"></p>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>
