@@ -30,5 +30,20 @@
     "poster": "media/tixby/poster.jpg",
     "videoWide": "media/tixby/video-wide.mp4",
     "posterWide": "media/tixby/poster-wide.jpg"
+  },
+  {
+    "slug": "mesa",
+    "brand": "Mesa School of Business",
+    "title": "The business school where you build real businesses",
+    "kind": "Spec concept",
+    "date": "2026-10-14",
+    "sector": "Education",
+    "length": "19s",
+    "format": "9:16 with sound",
+    "summary": "A launch-week advert for Mesa School of Business in Bangalore, made the day after it announced a ₹110 crore raise.",
+    "noticed": "Mesa's site is full of hard numbers, from ₹1 lakh in sales in your first four weeks to 58% of graduates in founder-facing roles, but none of them move.",
+    "built": "An advert that opens on their own sales challenge filling up week by week, turns on their homepage headline, then walks through AI products, the Startup Lab and outcomes. Every line and figure is theirs, in their greens, lime and Manrope.",
+    "video": "media/mesa/video.mp4",
+    "poster": "media/mesa/poster.jpg"
   }
 ]
