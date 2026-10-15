@@ -45,5 +45,20 @@
     "built": "An advert that opens on their own sales challenge filling up week by week, turns on their homepage headline, then walks through AI products, the Startup Lab and outcomes. Every line and figure is theirs, in their greens, lime and Manrope.",
     "video": "media/mesa/video.mp4",
     "poster": "media/mesa/poster.jpg"
+  },
+  {
+    "slug": "allara",
+    "brand": "Allara Health",
+    "title": "Our specialists know women's health. Period.",
+    "kind": "Spec concept",
+    "date": "2026-10-15",
+    "sector": "Women's health",
+    "length": "19s",
+    "format": "9:16 with sound",
+    "summary": "A launch-week advert for Allara, the insurance-covered virtual care team for women's hormonal and metabolic health, made two days after it announced a $30M raise.",
+    "noticed": "Allara's Instagram opens posts with a small italic question and a serif line with one word in italic, but nearly all of its video is filmed, and the numbers on its homepage never move.",
+    "built": "An advert that opens the way their posts do, joins up the symptoms from their homepage, then shows the care team, the 50 states and their 98% and 90% figures. Every line and figure is theirs, in their navy, pale blue and pink.",
+    "video": "media/allara/video.mp4",
+    "poster": "media/allara/poster.jpg"
   }
 ]
