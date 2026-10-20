@@ -60,5 +60,20 @@
     "built": "An advert that opens the way their posts do, joins up the symptoms from their homepage, then shows the care team, the 50 states and their 98% and 90% figures. Every line and figure is theirs, in their navy, pale blue and pink.",
     "video": "media/allara/video.mp4",
     "poster": "media/allara/poster.jpg"
+  },
+  {
+    "slug": "marklo",
+    "brand": "Marklo",
+    "title": "See what drove revenue. Know what to run next.",
+    "kind": "Spec concept",
+    "date": "2026-10-18",
+    "sector": "Marketing software",
+    "length": "17s",
+    "format": "9:16 with sound",
+    "summary": "A launch-week advert for Marklo, the AI marketing calendar and campaign planner for Shopify brands, made four days after it announced a $5M seed round.",
+    "noticed": "Marklo's Instagram is founder-led talking-head reels with burned-in captions, and its best lines, like \"Every Q4 planning call sounds the same\", never get to move.",
+    "built": "An advert that opens on that Q4 planning call, throws the scattered tabs around the frame, then draws the Marklo wordmark and walks through the calendar, Ask Marklo and their month-in-a-day customer story. Every line and figure is theirs, in their espresso brown and pastel panels.",
+    "video": "media/marklo/video.mp4",
+    "poster": "media/marklo/poster.jpg"
   }
 ]
