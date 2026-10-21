@@ -90,5 +90,20 @@
     "built": "An advert that opens on their fuel-price post, stacks up the costs from their own reel, then rides an electric bike through the frame and animates the battery swap and the business savings. Every line and figure is theirs, read by a Nigerian voice over an Afrobeats percussion bed, in their yellow, green and chunky sticker type.",
     "video": "media/max/video.mp4",
     "poster": "media/max/poster.jpg"
+  },
+  {
+    "slug": "zenzap",
+    "brand": "Zenzap",
+    "title": "AI agents have joined the team.",
+    "kind": "Spec concept",
+    "date": "2026-10-21",
+    "sector": "Workplace software",
+    "length": "20s",
+    "format": "9:16 with sound and voiceover",
+    "summary": "An advert for Zenzap, the team chat where AI agents take action alongside frontline and office teams, made a week after its $44M raise.",
+    "noticed": "Zenzap's Instagram already tells good stories, like its Shift Handover carousel, but they arrive as still slides, and the product itself is rarely shown moving.",
+    "built": "An advert that opens on their pinned line, turns a noisy shift chat into their 90-second agent setup, then plays the Shift Handover post out step by step and lands on their own figures. It is in their Figtree type, amber bolt and cream, with a bright synth bed.",
+    "video": "media/zenzap/video.mp4",
+    "poster": "media/zenzap/poster.jpg"
   }
 ]
