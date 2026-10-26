@@ -105,5 +105,35 @@
     "built": "An advert that opens on their pinned line, turns a noisy shift chat into their 90-second agent setup, then plays the Shift Handover post out step by step and lands on their own figures. It is in their Figtree type, amber bolt and cream, with a bright synth bed.",
     "video": "media/zenzap/video.mp4",
     "poster": "media/zenzap/poster.jpg"
+  },
+  {
+    "slug": "ezbombs",
+    "brand": "EZ Bombs",
+    "title": "How many tacos can one mini bomb make?",
+    "kind": "Spec concept",
+    "date": "2026-10-24",
+    "sector": "Consumer packaged food",
+    "length": "18s",
+    "format": "9:16 with sound",
+    "summary": "An advert for EZ Bombs, the family-run brand whose seasoning bombs melt into the pan for birria, pozole and tacos, made ten days after its $25M Series A.",
+    "noticed": "EZ Bombs posts constantly, but it's all filmed reels, and the idea behind the product, one bomb for one pound with seasoning and sauce pressed into two halves, never gets animated.",
+    "built": "An advert that opens on their pinned \"how many tacos\" question, strikes out soak, blend and measure, plays Toss, Cook, Enjoy in a pan, and answers with up to 6 lbs of tacos. Every line and figure is theirs, in their pink, red and green, with their logo's bomb redrawn throughout.",
+    "video": "media/ezbombs/video.mp4",
+    "poster": "media/ezbombs/poster.jpg"
+  },
+  {
+    "slug": "healthleap",
+    "brand": "Healthleap",
+    "title": "See what you've been missing",
+    "kind": "Spec concept",
+    "date": "2026-10-26",
+    "sector": "Clinical AI",
+    "length": "19s",
+    "format": "9:16 with sound",
+    "summary": "An advert for Healthleap, the AI that screens every hospital inpatient each morning for malnutrition risk and puts the sickest at the top of the dietitian's list, made after its $38M seed and Series A.",
+    "noticed": "Healthleap's homepage is full of strong numbers, from under 9% of at-risk patients diagnosed to $23.8M of impact at Penn Medicine, but none of it moves, and its Instagram has no posts yet.",
+    "built": "An advert that opens on the line from the CEO's funding post, fills a ward of patients to show who gets missed, assembles their pixel-cross logo, then sorts their own priority list and lands on their study and partner figures. Every line and figure is theirs, in their teal, grey and Inter.",
+    "video": "media/healthleap/video.mp4",
+    "poster": "media/healthleap/poster.jpg"
   }
 ]
