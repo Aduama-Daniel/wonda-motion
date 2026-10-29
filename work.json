@@ -150,5 +150,20 @@
     "built": "An advert that flicks through a reel feed, stops on their funding line, draws their o/o mark, plays one round on their target-goal board, then counts up their 2.2 million players, 48 million games and the 689-day streak. It is all in their lime, lilac and Bebas Neue.",
     "video": "media/matiks/video.mp4",
     "poster": "media/matiks/poster.jpg"
+  },
+  {
+    "slug": "infisical",
+    "brand": "Infisical",
+    "title": "Agents shouldn't see your secrets",
+    "kind": "Spec concept",
+    "date": "2026-10-29",
+    "sector": "Developer security",
+    "length": "18s",
+    "format": "9:16 with sound",
+    "summary": "An advert for Infisical, the open-source platform for secrets, certificates and AI agent access, made the week it raised a $40M Series B.",
+    "noticed": "Infisical has a great line, \"If you're giving agents API keys, you're doing it wrong\", and big numbers like 10 billion secrets secured a day. Their funding video is widescreen, though, and their Instagram is almost empty, so nothing was made for vertical feeds.",
+    "built": "An advert where a coding agent reads a .env file, then Agent Vault swaps the key for a placeholder and a padlock locks. Their secrets table ticks across every environment before it counts up 10 billion secrets a day and 1,300+ organizations. It is all in their highlighter yellow, black and JetBrains Mono.",
+    "video": "media/infisical/video.mp4",
+    "poster": "media/infisical/poster.jpg"
   }
 ]
